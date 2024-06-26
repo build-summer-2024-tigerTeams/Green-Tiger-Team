@@ -7,4 +7,4 @@ index = list.index(target)
 print(f"Found {target} at index: {index}")
 
 
-print('Tiger Team Green')
+print('Tiger Team green')
